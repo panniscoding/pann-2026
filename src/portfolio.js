@@ -58,6 +58,75 @@ export default function Portfolio() {
           <img src="/images/pann.png" alt="Pann" width="100%" />
         </div>
       </section>
+      <section className="logos container">
+        <div className="marquee">
+          <div className="track">
+            <img src="/images/html.png" alt="HTML" width="128" />
+            <img src="/images/css.png" alt="CSS" width="128" />
+            <img src="/images/javascript.png" alt="JS" width="128" />
+            <img src="/images/react.png" width="128" alt="React" />
+            <img src="/images/vscode.png" width="128" alt="VS Code" />
+            <img src="/images/python.png" width="128" alt="Python" />
+            <img src="/images/seo.png" alt="SEO" width="128" />
+            <img src="/images/icon-AI.png" alt="AI" width="128" />
+            <img src="/images/html.png" alt="HTML" width="128" />
+            <img src="/images/css.png" alt="CSS" width="128" />
+            <img src="/images/javascript.png" alt="JS" width="128" />
+            <img src="/images/react.png" width="128" alt="React" />
+            <img src="/images/vscode.png" width="128" alt="VS Code" />
+            <img src="/images/python.png" width="128" alt="Python" />
+            <img src="/images/seo.png" alt="SEO" width="128" />
+            <img src="/images/icon-AI.png" alt="AI" width="128" />
+          </div>
+        </div>
+      </section>
+      <section id="skills" className="skills container">
+        <h2>
+          <small> About Me</small>
+          Skills
+        </h2>
+        <div className="holder-blue">
+          <div className="left-column">
+            <h3>Frontend</h3>
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>React</li>
+              <li>GIT</li>
+              <li>Responsive</li>
+              <li>SEO</li>
+              <li>AJAX/API</li>
+            </ul>
+            <h3>Backend</h3>
+            <ul>
+              <li>Java</li>
+              <li>Python</li>
+              <li>Node.js</li>
+              <li>PHP</li>
+            </ul>
+          </div>
+          <div className="right-column">
+            <h3>Get to know me a bit</h3>
+            <p>
+              I'm a career-changing Junior Developer with 15 years of
+              hospitality management experience, now channeling my passion for
+              problem-solving into full-stack development. My decade managing
+              high-end operations taught me to build efficient systems under
+              pressure, anticipate user needs, and lead diverse teams through
+              complex challenges.
+            </p>
+            <p>
+              Currently working as Personal Assistant at a branding consultancy
+              and Financial Controller at the Fashion Store while dedicating
+              every available hour to mastering my technical skills across the
+              entire stack. Now seeking to leverage technical proficiency and
+              CRM strategy to optimize customer retention and lifecycle
+              automation for a high-growth SaaS platform.
+            </p>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }
