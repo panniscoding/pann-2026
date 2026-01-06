@@ -44,8 +44,18 @@ export default function Portfolio() {
               >
                 <img src="./images/github.png" alt="GitHub" width="48" />
               </a>
+              <a
+                href="https://www.linkedin.com/in/pann-ei-phyu-849916b0/"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                <img src="./images/linkedin.png" alt="LinkedIn" width="48" />
+              </a>
             </div>
           </div>
+        </div>
+        <div className="hero-yellow">
+          <img src="/images/pann.png" alt="Pann" width="100%" />
         </div>
       </section>
     </main>
