@@ -38,7 +38,7 @@ export default function Portfolio() {
             </div>
             <div className="social-links">
               <a
-                href="https://github.com/panniscoding/portfolio-2025"
+                href="https://github.com/panniscoding/pann-2026"
                 target="_blank"
                 rel="noreferrer noopener"
               >

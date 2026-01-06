@@ -48,7 +48,7 @@ const Footer = () => {
               <a href="#projects">Projects</a>
             </li>
             <li>
-              <a href="/Pann_Tech_Resume.pdf" target="_blank">
+              <a href="/Pann Ei Phyu.pdf" target="_blank">
                 Resume
               </a>
             </li>
@@ -103,7 +103,7 @@ const Footer = () => {
           </a>{" "}
           |{" "}
           <a
-            href="https://github.com/panniscoding/pann-2025-react"
+            href="https://github.com/panniscoding/pann-2026"
             target="_blank"
             rel="noreferrer noopener"
           >
