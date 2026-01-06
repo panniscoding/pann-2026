@@ -127,6 +127,112 @@ export default function Portfolio() {
           </div>
         </div>
       </section>
+      <section id="projects" className="project container">
+        <h2>
+          <small>Previous</small>
+          Completed Projects
+        </h2>
+        <div className="project-grid">
+          <a
+            href="https://www.canapa-x.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="project-item"
+          >
+            <img src="./images/canapa-web.png" alt="Canapa-X" width="100%" />
+          </a>
+          <a
+            href="https://colab.research.google.com/drive/1K9KMXetxJB8qCTIhJ1Hg06XSCjp7bErL?usp=sharing"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="project-item"
+          >
+            <img
+              src="./images/Python_AI_project.png"
+              alt="Python-AI"
+              width="100%"
+            />
+          </a>
+          <a
+            href="https://www.amsterboat.com"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="project-item"
+          >
+            <img src="./images/amsterboat.jpg" alt="" width="100%" />
+          </a>
+          <a
+            href="https://modest-mayer-b1d552.netlify.app"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="project-item"
+          >
+            <img src="./images/weather.png" alt="Js-weather-app" width="100%" />
+          </a>
+
+          <a
+            href="https://www.shecodes.io/cohorts/2899/projects/2729387?_gl=1*1e0ie90*_gcl_au*MTM0NTA3Nzk3Mi4xNzU2ODg2MjA1"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="project-item"
+          >
+            <img
+              src="./images/HTML, CSS project.png"
+              alt="Css-workshop"
+              width="100%"
+            />
+          </a>
+          <a
+            href="https://replit.com/@pansymiss/Python-Final-Project?v=1#main.py"
+            target="_blank"
+            rel="noreferrer noopener"
+            className="project-item"
+          >
+            <img
+              src="./images/Python_Project.png"
+              alt="Python-project"
+              width="100%"
+            />
+          </a>
+        </div>
+      </section>
+      <section className="chatbot container">
+        <h2>
+          <small>Talk to me</small>
+          Chatbot
+        </h2>
+        <div className="chatbot-blue">
+          <div className="chat-info">
+            <h3>AI Chatbot</h3>
+            <p>
+              I've put a Chatbot at the right cornor which knows all my skills
+              and has a copy of my CV. You can ask questions about me to get a
+              better idea of who I am and what I've done.
+            </p>
+            <p>
+              You can also view my latest Certificates from{" "}
+              <a
+                href="https://www.shecodes.io"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                SheCode
+              </a>
+              , the leading coding workshop for women. I'm currently looking for
+              new opportunities so if you have a project you think I'd be a good
+              fit for, please get in touch!
+            </p>
+            <a
+              href="https://www.shecodes.io/graduates/20032-pann-ei-phyu"
+              rel="noreferrer noopener"
+              target="_blank"
+              className="button black"
+            >
+              My Certificates with SheCode.io 👩‍💻
+            </a>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }
