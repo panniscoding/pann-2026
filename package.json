@@ -1,5 +1,6 @@
 {
   "name": "pann-2026",
+  "homepage": "https://dreamatelier.design/pann",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

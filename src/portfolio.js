@@ -20,7 +20,7 @@ export default function Portfolio() {
             </p>
             <div className="call-to-action">
               <a
-                href="/Pann Ei Phyu.pdf"
+                href="/pann_cv.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="button black"
@@ -117,12 +117,12 @@ export default function Portfolio() {
               complex challenges.
             </p>
             <p>
-              Currently working as Personal Assistant at a branding consultancy
-              and Financial Controller at the Fashion Store while dedicating
-              every available hour to mastering my technical skills across the
-              entire stack. Now seeking to leverage technical proficiency and
-              CRM strategy to optimize customer retention and lifecycle
-              automation for a high-growth SaaS platform.
+              Currently working as Personal Assistant at a branding company and
+              Financial Controller at a Fashion Store while dedicating everys
+              available hour to mastering my technical skills across the entire
+              stack. Now seeking to leverage technical proficiency and CRM
+              strategy to optimize customer retention and lifecycle automation
+              for a high-growth SaaS platform.
             </p>
           </div>
         </div>
@@ -162,7 +162,7 @@ export default function Portfolio() {
             <img src="./images/amsterboat.jpg" alt="" width="100%" />
           </a>
           <a
-            href="https://modest-mayer-b1d552.netlify.app"
+            href="https://weather-2026-by-pann.netlify.app"
             target="_blank"
             rel="noreferrer noopener"
             className="project-item"
